@@ -1,0 +1,28 @@
+{
+  "name": "ws-p5",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000w\u0000s\u0000-\u0000p\u00005\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/azamtau/ws-p5.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/azamtau/ws-p5/issues"
+  },
+  "homepage": "https://github.com/azamtau/ws-p5#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^4.1.2"
+  },
+  "optionalDependencies": {
+    "bufferutil": "^4.0.3",
+    "utf-8-validate": "^5.0.5",
+    "nodemon": "^2.0.7"
+  }
+}
